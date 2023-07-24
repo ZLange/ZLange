@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Zaiga
 - 👀 I’m interested in Test Automation
 - 🌱 I’m currently learning Python but might switch to Java insted 
 
