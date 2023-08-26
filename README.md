@@ -1,5 +1,5 @@
 - 👀 I’m interested in Test Automation
-- 🌱 I’m currently learning Python but might switch to Java insted 
+- 🌱 Started with Python but now switched to Java insted 
 
 <!---
 ZLange/ZLange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
